@@ -1,0 +1,9 @@
+Admin:  admin@gmail.com
+Pass:   admin
+
+
+Employee 1: sales@gmail.com
+Pass: sales123
+
+Employee 2: accounts@gmail.com
+Pass: accounts123
